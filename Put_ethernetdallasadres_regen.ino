@@ -2,7 +2,7 @@
  Created with PROGRAMINO IDE for Arduino - 06.09.2018 10:28:51
  Project     :Tuin beregening bij de put
  Libraries   :Mysensors en andere
- Author      :Dick Zijlmans
+ Author      :Dzjr
  Description :Sensor Node via Ethernet
 ******************************************************************/
 
